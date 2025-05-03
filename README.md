@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 <!---LeetCode Topics End-->
