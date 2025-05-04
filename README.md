@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Hash Table
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
