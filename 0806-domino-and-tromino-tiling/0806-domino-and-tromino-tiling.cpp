@@ -1,26 +1,19 @@
 class Solution {
 public:
-    int t[1001];
-    int M = 1000000007;
-    int solve(int n)
-    {
+    int numTilings(int n) {
+        int M = 1000000007;
+        vector<int>dp(n+1,0);
         if(n==1 || n==2)
         {
             return n;
         }
-        if(n==3)
+        dp[1]=1;
+        dp[2]=2;
+        dp[3]=5;
+        for(int i = 4;i<=n;i++ )
         {
-            return 5;
+            dp[i]=((2*dp[i-1])%M+(dp[i-3])%M)%M;
         }
-        if(t[n]!=-1)
-        {
-            return t[n];
-        }
-        t[n] = (2*solve(n-1)%M+solve(n-3)%M)%M;
-        return t[n];
-    }
-    int numTilings(int n) {
-       memset(t,-1,sizeof(t));
-       return solve(n); 
+        return dp[n];
     }
 };
