@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam995698/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam995698/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivam995698/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shivam995698/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
