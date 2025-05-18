@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shivam995698/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Shivam995698/Leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam995698/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shivam995698/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Shivam995698/Leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivam995698/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shivam995698/Leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
