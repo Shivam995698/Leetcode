@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shivam995698/Leetcode/tree/master/0213-house-robber-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shivam995698/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Shivam995698/Leetcode/tree/master/0279-perfect-squares) |
 | [0806-domino-and-tromino-tiling](https://github.com/Shivam995698/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
