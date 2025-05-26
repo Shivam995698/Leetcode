@@ -6,21 +6,24 @@ public:
         {
             return 0;
         }
+        int i=0;
         int maxi = 0;
-        for(int i =0;i<n;i++)
+        unordered_set<char>st;
+        for(int j = 0;j<n;j++)
         {
-            unordered_set<char>st;
-            for(int j =i;j<n;j++)
+            if(st.find(s[j])!=st.end())
             {
-                if(st.find(s[j])!=st.end())
+                while(i<j && st.find(s[j])!=st.end())
                 {
-                    maxi = max(maxi,j-i);
-                    break;
+                    st.erase(s[i]);
+                    i++;
                 }
-                st.insert(s[j]);
             }
-            maxi = max(maxi,(int)st.size());
+            st.insert(s[j]);
+            maxi = max(maxi,j-i+1);
+            
         }
+
         return maxi;
     }
 };
