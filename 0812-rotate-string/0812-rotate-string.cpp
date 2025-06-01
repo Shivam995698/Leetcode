@@ -5,7 +5,15 @@ public:
         {
             return false;
         }
-        string doubleS = s+s;
-        return doubleS.find(goal)!=string::npos;
+        int n = s.length();
+        for(int i = 0;i<n;i++)
+        {
+            string ans = s.substr(i)+s.substr(0,i);
+            if(ans == goal)
+            {
+                return true;
+            }
+        }
+        return false;
     }
 };
