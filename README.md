@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Shivam995698/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Shivam995698/Leetcode/tree/master/0279-perfect-squares) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Shivam995698/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam995698/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -149,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Shivam995698/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam995698/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam995698/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam995698/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam995698/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
