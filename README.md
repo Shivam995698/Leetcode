@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam995698/Leetcode/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shivam995698/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0940-fruit-into-baskets](https://github.com/Shivam995698/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam995698/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam995698/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shivam995698/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam995698/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shivam995698/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivam995698/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shivam995698/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam995698/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Shivam995698/Leetcode/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shivam995698/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
