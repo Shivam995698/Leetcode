@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shivam995698/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam995698/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam995698/Leetcode/tree/master/0213-house-robber-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam995698/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam995698/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam995698/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam995698/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Shivam995698/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shivam995698/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Tree
 |  |
@@ -134,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam995698/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shivam995698/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Shivam995698/Leetcode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Shivam995698/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
