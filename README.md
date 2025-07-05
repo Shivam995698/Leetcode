@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shivam995698/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shivam995698/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivam995698/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Shivam995698/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam995698/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam995698/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam995698/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Shivam995698/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam995698/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam995698/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -198,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivam995698/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Shivam995698/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam995698/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
