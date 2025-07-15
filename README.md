@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shivam995698/Leetcode/tree/master/0279-perfect-squares) |
 | [0806-domino-and-tromino-tiling](https://github.com/Shivam995698/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
+| [1250-longest-common-subsequence](https://github.com/Shivam995698/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam995698/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Shivam995698/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
+| [1250-longest-common-subsequence](https://github.com/Shivam995698/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivam995698/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
