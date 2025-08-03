@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivam995698/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1791-richest-customer-wealth](https://github.com/Shivam995698/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivam995698/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivam995698/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam995698/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam995698/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1791-richest-customer-wealth](https://github.com/Shivam995698/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivam995698/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
