@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivam995698/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivam995698/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Shivam995698/Leetcode/tree/master/0279-perfect-squares) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivam995698/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
