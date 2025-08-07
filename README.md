@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam995698/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Shivam995698/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shivam995698/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivam995698/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Shivam995698/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Shivam995698/Leetcode/tree/master/0279-perfect-squares) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Shivam995698/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Shivam995698/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shivam995698/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam995698/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
