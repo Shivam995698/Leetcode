@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/Shivam995698/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivam995698/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Shivam995698/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shivam995698/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivam995698/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Shivam995698/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Counting
 |  |
 | ------- |
