@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivam995698/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam995698/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Shivam995698/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivam995698/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivam995698/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shivam995698/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shivam995698/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Shivam995698/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shivam995698/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam995698/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Shivam995698/Leetcode/tree/master/0279-perfect-squares) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam995698/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Shivam995698/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0139-word-break](https://github.com/Shivam995698/Leetcode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Shivam995698/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam995698/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam995698/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam995698/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam995698/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Shivam995698/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Shivam995698/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam995698/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivam995698/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam995698/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -269,10 +273,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam995698/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shivam995698/Leetcode/tree/master/0139-word-break) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam995698/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shivam995698/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
 
 Author - Shivam Verma 
