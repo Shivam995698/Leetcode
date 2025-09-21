@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivam995698/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1791-richest-customer-wealth](https://github.com/Shivam995698/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivam995698/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shivam995698/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivam995698/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shivam995698/Leetcode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Shivam995698/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivam995698/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivam995698/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shivam995698/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam995698/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivam995698/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivam995698/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam995698/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam995698/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/Shivam995698/Leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## String Matching
 |  |
 | ------- |
