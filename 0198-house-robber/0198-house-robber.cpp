@@ -1,9 +1,8 @@
 class Solution {
 public:
-    int usingRecurr(vector<int>&nums,int index,vector<int>&dp)
+    int solve(int index,vector<int>nums,vector<int>&dp)
     {
-        int n = nums.size();
-        if(index>=n)
+        if(index>=nums.size())
         {
             return 0;
         }
@@ -11,17 +10,16 @@ public:
         {
             return dp[index];
         }
-        int include = nums[index]+usingRecurr(nums,index+2,dp);
-        int exclude = 0+ usingRecurr(nums,index+1,dp);
-        dp[index]=max(include,exclude);
+        int maxi1 = nums[index]+solve(index+2,nums,dp);
+        int maxi2 = 0+solve(index+1,nums,dp);
+        dp[index]=max(maxi1,maxi2);
         return dp[index];
     }
     int rob(vector<int>& nums) {
-        int index =0;
         int n = nums.size();
-        vector<int>dp(n,-1);
-        int ans = usingRecurr(nums,index,dp);
+        vector<int>dp(n+1,-1);
+        int index = 0;
+        int ans = solve(index,nums,dp);
         return ans;
-        
     }
 };
