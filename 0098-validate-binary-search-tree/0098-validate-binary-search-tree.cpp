@@ -10,27 +10,24 @@
  * };
  */
 class Solution {
-public: 
-    bool solve(long long int ub, long long int lb,TreeNode* root)
+public:
+    bool solve(TreeNode* root,long long int ub,long long int lb)
     {
-        if(root == NULL)
+        if(root== NULL)
         {
             return true;
         }
-        bool upper = (root->val < ub);
-        bool lower = (root->val > lb);
-        bool leftans = solve(root->val,lb,root->left);
-        bool rightans = solve(ub,root->val,root->right);
-        if((upper)&&(lower)&&(leftans)&&(rightans))
-        {
-            return true;
-        }
-        return false;
+        bool ans1 = (root->val<ub);
+        bool ans2 = (root->val>lb);
+        bool ans3 = solve(root->left,root->val,lb);
+        bool ans4 = solve(root->right,ub,root->val);
+        return ans1 && ans2 && ans3 && ans4;
+
     }
     bool isValidBST(TreeNode* root) {
         long long int upperBound = 2147485648;
         long long int lowerBound = -2147485648;
-        bool ans = solve(upperBound,lowerBound,root);
-        return ans;
+        bool ans = solve(root,upperBound,lowerBound);
+        return ans; 
     }
 };
