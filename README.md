@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shivam995698/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shivam995698/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shivam995698/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivam995698/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shivam995698/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shivam995698/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shivam995698/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam995698/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shivam995698/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shivam995698/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shivam995698/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivam995698/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam995698/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam995698/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam995698/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0098-validate-binary-search-tree](https://github.com/Shivam995698/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam995698/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam995698/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shivam995698/Leetcode/tree/master/0287-find-the-duplicate-number) |
